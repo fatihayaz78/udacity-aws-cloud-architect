@@ -1,0 +1,13 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+"My Estimate,US East (N. Virginia),Amazon EC2,0,29.23,350.76,USD,""Operating system (Linux), Quantity (4), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (t3a.micro)"""
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,965.7,11588.40,USD,Number of NAT Gateways (2)
+"My Estimate,US East (N. Virginia),Amazon Elastic IP,0,58.4,700.80,USD,""Number of EC2 instances (4), Number of EIPs per instance (5)"""
+My Estimate,US East (Ohio),S3 Standard,0,23,276.00,USD,S3 Standard storage (1000 GB per month)
+"My Estimate,US East (N. Virginia),Amazon RDS for PostgreSQL,0,8544.704,102536.45,USD,""Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (1000 GB per month), Instance type (db.m5.12xlarge), Additional backup storage (1000 GB)"""
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,149.65,1795.80,USD,Number of Application Load Balancers (2)
+
+
+
+AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.
+
+"""We can reduce costs by using cheaper EC2 instances like from t3a.xlarge t3a.micro"
